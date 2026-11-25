@@ -93,7 +93,8 @@ and time show. If the simulation was left on, your location is requested when th
 
 ## Licence
 
-Copyright (C) 2026 Matt Beale
+Copyright (C) 2026 Matt Beale  
+Original `beehive_header.swf` copyright (C) Andy Black
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public
 License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later
@@ -107,7 +108,7 @@ The third party data and icon credited below keep their own licences.
 
 ## Credits
 
-- Artwork and behaviour ported from `beehive_header.swf`.
+- Artwork and behaviour ported from `beehive_header.swf`, copyright (C) Andy Black.
 - Star, star name and constellation data from [d3-celestial](https://github.com/ofrohn/d3-celestial) by Olaf Frohn
   (BSD 3-Clause; the notice is in `sky-data.js` and `sky-names.js`).
 - Icon from [Tabler Icons](https://tabler.io/icons) (MIT).
