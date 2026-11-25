@@ -91,6 +91,20 @@ The search covers 20 years; if there is none, nothing happens, which is common f
 The browser remembers whether the simulation is on, the viewing angle, the names, daytime names and whether the date
 and time show. If the simulation was left on, your location is requested when the page loads.
 
+## Licence
+
+Copyright (C) 2026 Matt Beale
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public
+License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See [LICENSE](LICENSE) for the full text of the
+GNU General Public License.
+
+The third party data and icon credited below keep their own licences.
+
 ## Credits
 
 - Artwork and behaviour ported from `beehive_header.swf`.
